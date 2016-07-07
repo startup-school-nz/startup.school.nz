@@ -19,6 +19,9 @@ one day a month to work on your business in the coming months, then we highly
 recommend you come around for this one as these key concepts set you up for a
 good start.
 
+If you want to get some preparation before the workshop I highly recommend watching the following TED talk by Simon Sinek
+{{< url-link "How great leaders inspire action" "https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action" >}}
+
 The workshop will run on the 7th of August, 10 AM at Innovate (NMIT G Block). 
 
 Please sign up on Eventbrite for this event here: {{< url-link "Signup on Eventbrite" "http://www.eventbrite.com/e/deep-dive-workshop-customer-segmentation-tickets-26439913493?aff=website" >}}
