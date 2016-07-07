@@ -10,35 +10,27 @@ title = "Deep Dive Workshops"
 
 +++
 
+We have seen that even just one day a month where you work on your business
+instead of in your business make a huge difference in long term success. We
+provide a easy way to spend a day a month learning and applying learning to
+your business with an affordable workshop program for you and your team.
+
 Starting in August 2016 we will run monthly deep dive workshops in Nelson where
-we invite teams to spend one day improving their business in one aspect of the
-Lean Canvas. The workshops will introduce simple tools for the teams to work
-through on the day, present their outcome to the rest of the teams and then
-move on to the next tool. We will work through 5-6 tools every workshop and
-provide mentoring during the exercises. To get most out of the course we highly
+we invite teams to spend one day improving their business in one key aspect.
+The workshops will introduce simple tools to the whole group, teams then work
+through them on the day, present their outcome to the rest of the teams and
+then move on to the next tool. To get most out of the course we highly
 recommend bringing your whole team as we have seen the best results if everyone
 is involved and have structured the pricing accordingly.
 
 Courses run every first Sunday of the month, start at 10am and will run through
-to around 6pm, hosted at Innovate. Wind down and social time after the workshop
-at a suitable location (Pub).
-
-To get the most out of this you should have
-– a business and a team
-– experience with the lean canvas
+to around 6pm. Wind down and social time after the workshop at a suitable
+location (Pub).
 
 Price: $100NZD per team
 
-August
-------
+upcoming events
+---------------
 
-The first workshop in our series of deep dive workshops is around finding the
-right customer segments. We will introduce tools that help you identify new
-segments, get a deeper understanding of “good” vs “bad” segments and how to
-identify suitable early adopter segments for your business.
-
-The workshop will run on the 7th of August, 10 AM at Innovate.  Please mail
-INFO@INNOVATENELSON.COM if you want to be part of this, places are limited so
-make sure you get in soon.
-
+- [Nelson - 7th August](/blog/deep_dive_nelson_august)
 

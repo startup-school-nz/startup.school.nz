@@ -91,7 +91,7 @@ publishdir = "public"
 # socialAppearAtTop or socialAppearAtBottom is set to true in the params area
 # The social media icons will appear on the sidebar
 [social]
-    github          = "norbu09"
+    github          = ""
     bitbucket       = ""
     jsfiddle        = ""
     codepen         = ""
@@ -117,5 +117,5 @@ publishdir = "public"
     facebook        = ""
     facebook_admin  = ""
     twitter_domain  = ""
-    twitter         = "norbu09"
+    twitter         = ""
     email           = ""
