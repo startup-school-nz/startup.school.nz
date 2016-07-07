@@ -5,8 +5,6 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 # Build the project.
 hugo
 
-cd public
-
 # Add changes to git.
 git add -A
 
@@ -21,4 +19,7 @@ git commit -m "$msg"
 git pull --rebase
 git push origin master
 
-cd -
+echo -e "\033[0;32mUpdating site on server...\033[0m"
+ssh freebsd@159.203.240.9 'cd startup.school.nz && git pull'
+open http://startup.school.nz
+
