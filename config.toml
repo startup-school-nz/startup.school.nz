@@ -43,7 +43,7 @@ publishdir = "public"
 [params.intro]
     header    = "startup school"
 
-    paragraph = "startup school brings the finest events to your community. We specialise in imersive learning events that make your business fly <i class='fa fa-hand-peace-o'></i>"
+    paragraph = "startup school brings the finest events to your community. We specialise in immersive learning events that make your business fly <i class='fa fa-hand-peace-o'></i>"
 
     about     = "startup.school.nz is a bunch of people that are passionate to transform New Zealand into startup central. We use the term `startup` very loose and really focus on businesses that have the potential to have a substantial impact on their community."
 
