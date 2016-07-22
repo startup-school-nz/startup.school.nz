@@ -13,11 +13,10 @@ type = "post"
 +++
 
 The first workshop in our series of _Deep Dive_ workshops is a foundational one
-where we explore the Golden Circle, Business Model Canvas and the Value
-Proposition Canvas. We will keep coming back to these so if you plan to invest
-one day a month to work on your business in the coming months, then we highly
-recommend you come around for this one as these key concepts set you up for a
-good start.
+where we explore the Golden Circle and the Business Model Canvas. We will keep
+coming back to these so if you plan to invest one day a month to work on your
+business in the coming months, then we highly recommend you come around for
+this one as these key concepts set you up for a good start.
 
 If you want to get some preparation before the workshop I highly recommend watching the following TED talk by Simon Sinek
 {{< url-link "How great leaders inspire action" "https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action" >}}

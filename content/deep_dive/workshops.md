@@ -24,10 +24,11 @@ recommend bringing your whole team as we have seen the best results if everyone
 is involved and have structured the pricing accordingly.
 
 Courses run every first Sunday of the month, start at 10am and will run through
-to around 6pm. Wind down and social time after the workshop at a suitable
-location (Pub).
+to around 5pm with a short lunch break. Please bring some lunch as we will not
+provide any catering. Wind down and social time after the workshop at a
+suitable location (Pub).
 
-Price: $100NZD per team
+The event is free of charge and we encourage to bring your whole team.
 
 upcoming events
 ---------------
