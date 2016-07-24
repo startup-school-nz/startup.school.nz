@@ -6,8 +6,27 @@
     <description>Recent content on startup.school.nz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-nz</language>
-    <lastBuildDate>Thu, 07 Jul 2016 15:10:36 +1200</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jul 2016 19:02:14 +1200</lastBuildDate>
     <atom:link href="http://startup.school.nz/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://startup.school.nz/about/</link>
+      <pubDate>Sun, 24 Jul 2016 19:02:14 +1200</pubDate>
+      
+      <guid>http://startup.school.nz/about/</guid>
+      <description>&lt;p&gt;startup.school.nz started out as a way to run workshops in the Nelson region
+that give local founders access to tools, networks and experience. We believe
+that building a strong founder fabric needs founders to invest back into that
+fabric. We do that by getting experienced founders to run workshops for the
+community.&lt;/p&gt;
+
+&lt;p&gt;Community trainings are free of charge for the participants as long as they are
+owner/operator companies, small teams up to 5 people. To finance this we also
+run corporate trainings where we help major companies to get back into the
+habit of innovating.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Deep Dive Nelson - August</title>
