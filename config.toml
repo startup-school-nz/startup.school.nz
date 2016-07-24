@@ -9,7 +9,7 @@ publishdir = "public"
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
-    description          = "startup.school.nz brings you events that help you build a successful business in a lean way"
+    description          = "we help build healty & resilient communities by connecting people with the tools & opportunities they need to do work they care about"
     # This will appear on the top left of the navigation bar
     navbarTitle          = "startup.school.nz"
     # Social media buttons that appear on the sidebar
@@ -42,10 +42,8 @@ publishdir = "public"
 # This is optional, but it's suggested to use
 [params.intro]
     header    = "startup school"
-
-    paragraph = "startup school brings the finest events to your community. We specialise in immersive learning events that make your business fly <i class='fa fa-hand-peace-o'></i>"
-
-    about     = "startup.school.nz is a bunch of people that are passionate to transform New Zealand into startup central. We use the term `startup` very loose and really focus on businesses that have the potential to have a substantial impact on their community."
+    paragraph = "we help build healty & resilient communities by connecting people with the tools & opportunities they need to do work they care about"
+    about     = "startup.school.nz is a bunch of people that are passionate to transform New Zealand into startup central. We use the term _startup_ very loose and really focus on businesses that have the potential to have a substantial impact on their community."
 
 # This will also appear on the sidebar.
 # A width of less than 100px is recommended
@@ -78,8 +76,8 @@ publishdir = "public"
     weight = 2
 
 [[menu.main]]
-    name = "founder.chat"
-    url = "/founderchat/founderchat"
+    name = "meetups"
+    url = "http://www.meetup.com/localfoundation"
     weight = 2
 
 [[menu.main]]
