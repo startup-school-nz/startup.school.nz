@@ -9,7 +9,7 @@ publishdir = "public"
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
-    description          = "we help build healty & resilient communities by connecting people with the tools & opportunities they need to do work they care about"
+    description          = "we believe connecting people with the tools & opportunities they need to do work they care about will create healty & resilient communities"
     # This will appear on the top left of the navigation bar
     navbarTitle          = "startup.school.nz"
     # Social media buttons that appear on the sidebar
@@ -42,7 +42,7 @@ publishdir = "public"
 # This is optional, but it's suggested to use
 [params.intro]
     header    = "startup school"
-    paragraph = "we help build healty & resilient communities by connecting people with the tools & opportunities they need to do work they care about"
+    paragraph = "we believe connecting people with the tools & opportunities they need to do work they care about will create healty & resilient communities"
     about     = "startup.school.nz is a bunch of people that are passionate to transform New Zealand into startup central. We use the term _startup_ very loose and really focus on businesses that have the potential to have a substantial impact on their community."
 
 # This will also appear on the sidebar.
