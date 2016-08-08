@@ -1,7 +1,7 @@
 +++
 author = "Lenz Gschwendtner"
 categories = ["Nelson", "workshops"]
-date = "2016-08-08T11:53:36+12:00"
+date = "2016-08-08T12:53:36+12:00"
 description = ""
 featured = ""
 featuredalt = ""
@@ -24,6 +24,7 @@ help us make relevant value propositions to our customers that create a high
 level of stickiness. Speaking of stickiness - we might talk about that as well.
 
 We also ditched Eventbrite for now and signups go through Meetup for the time
-being, so please sign up to the event there:[meetup.com/localfoundation](http://www.meetup.com/localfoundation/events/dghwwlyvmbgb/)
+being, so please sign up to the event there:
+[meetup.com/localfoundation](http://www.meetup.com/localfoundation/events/dghwwlyvmbgb/)
 
 
