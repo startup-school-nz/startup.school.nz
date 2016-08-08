@@ -23,8 +23,7 @@ actually address the needs of our customers. This tool is incredibly helpful to
 help us make relevant value propositions to our customers that create a high
 level of stickiness. Speaking of stickiness - we might talk about that as well.
 
-We also ditched eventbrite for now and signups go through meetup for the time
-being, so pelase sign up to the local.foundation meetup group and sign up for
-the event there.
+We also ditched Eventbrite for now and signups go through Meetup for the time
+being, so please sign up to the event there:[meetup.com/localfoundation](http://www.meetup.com/localfoundation/events/dghwwlyvmbgb/)
 
 
